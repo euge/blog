@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Ranting on Rails]]></title>
   <link href="http://euge.github.com/blog/atom.xml" rel="self"/>
   <link href="http://euge.github.com/blog/"/>
-  <updated>2012-06-04T16:46:34-07:00</updated>
+  <updated>2012-06-04T22:43:53-07:00</updated>
   <id>http://euge.github.com/blog/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Euge Gimelberg]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
